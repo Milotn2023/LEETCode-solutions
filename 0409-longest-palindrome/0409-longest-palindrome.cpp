@@ -1,14 +1,18 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        int n=s.length();
-        unordered_map<char,int>mp;
-        for(auto i:s)mp[i]++;
-        int ans=0;
-        for(auto it:mp){
-            ans+=2*((it.second)/2);
-        }
-        if(ans<n)ans++;
-        return ans;
+    unordered_map<char, int> freq;
+    for (char c : s) freq[c]++;
+
+    int length = 0;
+    bool hasOdd = false;
+
+    for (auto &[ch, count] : freq) {
+        length += count / 2 * 2;   // take the even part
+        if (count % 2 == 1) hasOdd = true;
     }
+
+    if (hasOdd) length++; // place one odd char in the middle
+    return length;
+}
 };

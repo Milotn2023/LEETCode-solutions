@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0055-jump-game) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Depth-First Search
 |  |
 | ------- |

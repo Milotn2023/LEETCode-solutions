@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0900-reordered-power-of-2) |
 ## Counting
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0210-course-schedule-ii) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->

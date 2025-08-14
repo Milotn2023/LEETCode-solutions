@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0455-assign-cookies) |
+| [1325-path-with-maximum-probability](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1325-path-with-maximum-probability) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1325-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
@@ -86,8 +88,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->

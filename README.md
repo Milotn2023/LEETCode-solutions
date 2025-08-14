@@ -60,16 +60,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0744-network-delay-time) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -79,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0326-power-of-three) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->

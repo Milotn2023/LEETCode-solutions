@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0055-jump-game) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Depth-First Search
 |  |
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1325-path-with-maximum-probability) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0210-course-schedule-ii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Recursion
 |  |
 | ------- |
@@ -94,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1325-path-with-maximum-probability) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->

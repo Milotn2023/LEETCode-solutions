@@ -28,14 +28,14 @@ vector<vector<pair<int, double>>> v(n);
     }
     vector<double> pro(n, 0.0);
     pro[start_node] = 1.0;
-    priority_queue<pair<double, int>> pq;
+    queue<pair<double, int>> pq;
     pq.push({1.0, start_node});
 
     while (!pq.empty()) {
-        auto [p, node] = pq.top();
+        auto [p, node] = pq.front();
         pq.pop();
 
-        if (node == end_node) return p;
+        // if (node == end_node) return p;
 
         if (p < pro[node]) continue;
         for (auto& [next, prob] : v[node]) {
@@ -45,6 +45,6 @@ vector<vector<pair<int, double>>> v(n);
             }
         }
     }
-    return 0.0;
+    return pro[end_node];
     }
 };

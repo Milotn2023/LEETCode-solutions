@@ -1,16 +1,12 @@
 class Solution {
 public:
     string largestGoodInteger(string num) {
-        vector<int>v;
-        int maxi=-1;
-        for(int i=0;i<num.length()-2;i++){
-            if(num[i]==num[i+1]&&num[i]==num[i+2])maxi=max(maxi,(int)num[i]);
+        char maxi = 0; // 0 means no triple found yet
+    for (int i = 0; i + 2 < num.size(); ++i) {
+        if (num[i] == num[i+1] && num[i] == num[i+2]) {
+            maxi = max(maxi, num[i]);
         }
-        if (maxi==-1)return "";
-        string t="";
-        t+=(char)maxi;
-        t+=(char)maxi;
-        t+=(char)maxi;
-        return t;
+    }
+    return maxi ? string(3, maxi) : "";
     }
 };

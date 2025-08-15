@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0455-assign-cookies) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0118-pascals-triangle) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Depth-First Search

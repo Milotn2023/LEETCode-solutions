@@ -5,17 +5,21 @@ public:
         vector<int>v(n);
         long long sum=0;
         long long ans=0;
-        if(k==0){
-            if(nums1==nums2){
-                return 0;
-            }
-            else 
-            return -1;
-        }
+        // if(k==0){
+        //     if(nums1==nums2){
+        //         return 0;
+        //     }
+        //     else 
+        //     return -1;
+        // }
         for(int i=0;i<n;i++){
             v[i]=nums1[i]-nums2[i];
-            if(v[i]%k!=0)return -1;
-            ans+=(abs(v[i]-0))/k;
+            if(k==0){
+                if(v[i]!=0)return -1;
+            }
+            else{
+            if(v[i]%k!=0)return -1;}
+            ans+=(k==0)?0:((abs(v[i]-0))/k);
              sum+=v[i];
         }
         if(sum==0)return ans/2;

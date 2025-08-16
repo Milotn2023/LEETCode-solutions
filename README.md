@@ -124,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1184-car-pooling](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1206-corporate-flight-bookings) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->

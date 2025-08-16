@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0455-assign-cookies) |
+| [1448-maximum-69-number](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1448-maximum-69-number) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 ## Array
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1448-maximum-69-number) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 ## Counting
 |  |

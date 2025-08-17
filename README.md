@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0007-reverse-integer) |
 | [0326-power-of-three](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1448-maximum-69-number) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0118-pascals-triangle) |
+| [0867-new-21-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0867-new-21-game) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Depth-First Search
@@ -135,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0620-not-boring-movies](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0620-not-boring-movies) |
 | [2087-confirmation-rate](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2087-confirmation-rate) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->

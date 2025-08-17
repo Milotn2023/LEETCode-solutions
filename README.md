@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0007-reverse-integer) |
 | [0326-power-of-three](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0900-reordered-power-of-2) |

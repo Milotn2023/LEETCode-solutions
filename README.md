@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0409-longest-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0900-reordered-power-of-2) |
+| [2055-describe-the-painting](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2055-describe-the-painting) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1206-corporate-flight-bookings) |
 | [1325-path-with-maximum-probability](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1325-path-with-maximum-probability) |
+| [2055-describe-the-painting](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2055-describe-the-painting) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 ## Two Pointers
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1184-car-pooling](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1184-car-pooling) |
+| [2055-describe-the-painting](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2055-describe-the-painting) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1184-car-pooling](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1206-corporate-flight-bookings) |
+| [2055-describe-the-painting](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2055-describe-the-painting) |
 ## Database
 |  |
 | ------- |

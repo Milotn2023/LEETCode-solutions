@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0179-largest-number) |
+| [0238-product-of-array-except-self](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0455-assign-cookies) |
 | [1184-car-pooling](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1184-car-pooling) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1184-car-pooling](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1206-corporate-flight-bookings) |
 | [2055-describe-the-painting](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2055-describe-the-painting) |

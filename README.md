@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0455-assign-cookies) |
+| [0679-24-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0679-24-game) |
 | [1184-car-pooling](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1206-corporate-flight-bookings) |
 | [1325-path-with-maximum-probability](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1325-path-with-maximum-probability) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0007-reverse-integer) |
 | [0326-power-of-three](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1448-maximum-69-number) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->

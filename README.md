@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0118-pascals-triangle) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0048-rotate-image) |
 | [0326-power-of-three](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0679-24-game) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0679-24-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0679-24-game) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

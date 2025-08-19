@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0134-gas-station) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0054-spiral-matrix) |
 | [1184-car-pooling](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1184-car-pooling) |
 ## Prefix Sum
 |  |
@@ -185,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

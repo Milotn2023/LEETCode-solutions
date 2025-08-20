@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0409-longest-palindrome) |
+| [0740-delete-and-earn](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0740-delete-and-earn) |
 | [0900-reordered-power-of-2](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0900-reordered-power-of-2) |
 | [2055-describe-the-painting](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2055-describe-the-painting) |
 ## String
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0455-assign-cookies) |
 | [0679-24-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0679-24-game) |
+| [0740-delete-and-earn](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0740-delete-and-earn) |
 | [1184-car-pooling](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1206-corporate-flight-bookings) |
 | [1325-path-with-maximum-probability](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1325-path-with-maximum-probability) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0118-pascals-triangle) |
+| [0740-delete-and-earn](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0740-delete-and-earn) |
 | [0867-new-21-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0867-new-21-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |

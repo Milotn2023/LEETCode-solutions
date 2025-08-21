@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1206-corporate-flight-bookings) |
 | [1325-path-with-maximum-probability](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1325-path-with-maximum-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2055-describe-the-painting](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2055-describe-the-painting) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0740-delete-and-earn) |
 | [0867-new-21-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0867-new-21-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Depth-First Search
@@ -194,4 +196,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0054-spiral-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
+## Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->

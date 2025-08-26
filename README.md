@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-describe-the-painting](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2055-describe-the-painting) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Two Pointers

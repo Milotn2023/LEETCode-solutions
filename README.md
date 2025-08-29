@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Counting
 |  |
 | ------- |

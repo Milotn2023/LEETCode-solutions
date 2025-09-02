@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1184-car-pooling](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1184-car-pooling) |
 | [2055-describe-the-painting](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2055-describe-the-painting) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Counting
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0900-reordered-power-of-2) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Dynamic Programming
 |  |
@@ -224,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->

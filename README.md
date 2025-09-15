@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0744-network-delay-time) |
 | [1184-car-pooling](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1184-car-pooling) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -234,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

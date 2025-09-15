@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0409-longest-palindrome) |
 | [0740-delete-and-earn](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0740-delete-and-earn) |
 | [0900-reordered-power-of-2](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0900-reordered-power-of-2) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2055-describe-the-painting](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2055-describe-the-painting) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0409-longest-palindrome) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |

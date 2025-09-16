@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0409-longest-palindrome) |
 | [0740-delete-and-earn](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0740-delete-and-earn) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0409-longest-palindrome) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0900-reordered-power-of-2) |

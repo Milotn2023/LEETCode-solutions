@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0740-delete-and-earn) |
 | [0900-reordered-power-of-2](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2055-describe-the-painting](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2055-describe-the-painting) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0409-longest-palindrome) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0900-reordered-power-of-2](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0900-reordered-power-of-2) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Enumeration
 |  |
 | ------- |

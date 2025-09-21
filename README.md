@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0744-network-delay-time](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
@@ -283,9 +285,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->

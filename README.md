@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0455-assign-cookies) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0679-24-game) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0900-reordered-power-of-2) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Milotn2023/LEETCode-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -292,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

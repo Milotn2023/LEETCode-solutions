@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0620-not-boring-movies](https://github.com/Milotn2023/LEETCode-solutions/tree/master/0620-not-boring-movies) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Milotn2023/LEETCode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Milotn2023/LEETCode-solutions/tree/master/2087-confirmation-rate) |
 ## Sliding Window
 |  |
